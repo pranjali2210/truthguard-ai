@@ -4,3 +4,4 @@ TruthGuard AI aims to detect and analyze fake news, phishing attempts, and cyber
 Each agent specializes in a domain, collaborates intelligently, and provides accurate and explainable decisions to help users distinguish truth from deception.
 
 Built with Google AI Studio. The core prompt logic generates truth scores for text.
+https://ai.studio/apps/drive/1rV7OJNQpXeIA2cmlIRFXWnCS9fimA26g
